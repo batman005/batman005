@@ -4,7 +4,7 @@
 
 ## I'm a  Developer, and Student!!
 
-- 🌱 I’m currently learning MERN STACK
+- 🌱 I’m currently learning MERN STACK AND DSA
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to play Videogames
 
