@@ -4,7 +4,7 @@
 
 ## I'm a  Developer, and Student!!
 
-- 🌱 I’m currently learning MERN  AND DSA
+- 🌱 I’m currently learning MERN and Solving problems 
 - ⚡ Fun fact: I love to play Videogames
 
 ### Languages and Tools:
