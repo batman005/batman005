@@ -2,7 +2,7 @@
 
 
 
-## I'm a  Developer, and Student!!
+## A IT Undergard (Pre-Final Year) 👨🏻‍💻 in Shri Shankaracharya Technical Campus, Bhilai and Developer from India
 
 - 🌱 I’m currently learning MERN and Solving problems 
 - ⚡ Fun fact: I love to play Videogames
