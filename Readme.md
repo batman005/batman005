@@ -4,7 +4,7 @@
 
 ## A IT Undergard (Pre-Final Year) 👨🏻‍💻 in Shri Shankaracharya Technical Campus, Bhilai and Developer from India
 
-- 🌱 I’m currently learning MERN and Solving problems 
+- 🌱 I’m currently learning MERN and Solving problems related to DSA.
 - ⚡ Fun fact: I love to play Videogames
 
 ### Languages and Tools:
