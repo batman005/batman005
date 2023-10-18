@@ -2,7 +2,7 @@
 
 
 
-## A IT Undergard Final Year 👨🏻‍💻 in Shri Shankaracharya Technical Campus, Bhilai and Developer from India
+## A Information Technology Undergard 👨🏻‍💻 from Shri Shankaracharya Technical Campus, Bhilai and Developer from India
 
 - 🌱 I’m currently learning MERN and Solving problems related to DSA.
 - ⚡ Fun fact: I love to play Videogames
