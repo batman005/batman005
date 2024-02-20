@@ -2,7 +2,7 @@
 
 
 
-## A Software Engineer who loves to solve complex problems and learn new things  
+## A Software Engineer who loves to solve complex problems & learn about Systems  
 
 - 🌱 I have Knowledege and Experience around JavaScript, React, Mongo, Node.
 - ⚡ I love to read Engineering Blogs.
