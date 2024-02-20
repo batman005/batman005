@@ -5,7 +5,6 @@
 ## A Software Engineer who loves to solve complex problems & learn about Systems  
 
 - 🌱 I have Knowledege and Experience around JavaScript, React, Mongo, Node, Java, SQL.
-- ⚡ I love to read Engineering Blogs.
 - 📝 Interest around Operating Systems, Databases, Networks
   
 
