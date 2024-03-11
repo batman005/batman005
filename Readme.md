@@ -21,7 +21,7 @@
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,git,docker,kubernetes,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,intellij,vim,git,docker,kubernetes,linux)](https://skillicons.dev)
 
 <h2>Cloud</h2>
 
