@@ -3,13 +3,13 @@
   A Software Engineer who loves to solve complex problems & learn about Systems  
 </h4>
 <ul>
-  <li>- 🌱 I have Knowledege and Experience around JavaScript, React, Mongo, Node, Java, SQL.</li>
+  <li>🌱 I have Knowledege and Experience around JavaScript, React, Mongo, Node, Java, SQL.</li>
   <li>📝 Interest around Operating Systems, Databases, Networks</li>
 </ul>
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,ts,js,bash,C,C++)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,ts,js,bash,c,cpp)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
   
