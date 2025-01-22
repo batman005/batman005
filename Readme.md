@@ -25,4 +25,4 @@
 
 <h2>Cloud</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
