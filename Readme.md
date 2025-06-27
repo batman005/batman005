@@ -13,7 +13,7 @@
 
 <h2>Frameworks</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,redux,react,nextjs,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express,redux,react,nextjs,tailwindcss)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
