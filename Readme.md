@@ -9,7 +9,7 @@
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,bash)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
   
